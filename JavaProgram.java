@@ -48,7 +48,7 @@ public class JavaProgram {
                 }
                     break;
                 case 2:
-                    Passanger.signup();
+                    SignUp.signup();
                     System.out.println("======================================");
                     break;
                 case 3:
